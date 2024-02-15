@@ -1,0 +1,16 @@
+C:\Users\Anderson\Desktop\POO\Aula01_POO\Aula01_POO\bin\Debug\net5.0\Aula01_POO.exe
+C:\Users\Anderson\Desktop\POO\Aula01_POO\Aula01_POO\bin\Debug\net5.0\Aula01_POO.deps.json
+C:\Users\Anderson\Desktop\POO\Aula01_POO\Aula01_POO\bin\Debug\net5.0\Aula01_POO.runtimeconfig.json
+C:\Users\Anderson\Desktop\POO\Aula01_POO\Aula01_POO\bin\Debug\net5.0\Aula01_POO.runtimeconfig.dev.json
+C:\Users\Anderson\Desktop\POO\Aula01_POO\Aula01_POO\bin\Debug\net5.0\Aula01_POO.dll
+C:\Users\Anderson\Desktop\POO\Aula01_POO\Aula01_POO\bin\Debug\net5.0\Aula01_POO.pdb
+C:\Users\Anderson\Desktop\POO\Aula01_POO\Aula01_POO\obj\Debug\net5.0\Aula01_POO.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\POO\Aula01_POO\Aula01_POO\obj\Debug\net5.0\Aula01_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\POO\Aula01_POO\Aula01_POO\obj\Debug\net5.0\Aula01_POO.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\POO\Aula01_POO\Aula01_POO\obj\Debug\net5.0\Aula01_POO.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\POO\Aula01_POO\Aula01_POO\obj\Debug\net5.0\Aula01_POO.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\POO\Aula01_POO\Aula01_POO\obj\Debug\net5.0\Aula01_POO.dll
+C:\Users\Anderson\Desktop\POO\Aula01_POO\Aula01_POO\obj\Debug\net5.0\refint\Aula01_POO.dll
+C:\Users\Anderson\Desktop\POO\Aula01_POO\Aula01_POO\obj\Debug\net5.0\Aula01_POO.pdb
+C:\Users\Anderson\Desktop\POO\Aula01_POO\Aula01_POO\obj\Debug\net5.0\Aula01_POO.genruntimeconfig.cache
+C:\Users\Anderson\Desktop\POO\Aula01_POO\Aula01_POO\obj\Debug\net5.0\ref\Aula01_POO.dll
